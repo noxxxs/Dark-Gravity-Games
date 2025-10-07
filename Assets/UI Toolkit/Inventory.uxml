@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets.uss?fileID=7433441132597879392&amp;guid=18275a75ce215c64c8b8b52f39bf43a3&amp;type=3#StyleSheets" />
+    <engine:VisualElement name="InventoryPanel" style="flex-direction: column; padding: 10px; gap: 5px; font-size: 23px; -unity-font-definition: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=a740a53b683efce49a4431d780e3ee16&amp;type=3#NotInter-Regular&quot;);">
+        <engine:Button name="AddItemButton" text="Add Item" class="headerButton" style="width: 1664px; align-items: flex-end; align-self: center; margin-top: 21px;" />
+        <engine:ScrollView name="ItemList" style="height: auto; width: 1865px; border-width: 1px; border-color: black; align-items: flex-start; opacity: 1; bottom: auto; top: auto; right: auto; left: auto; background-color: rgba(0, 0, 0, 0); min-width: initial; max-height: none; min-height: 0; align-self: center; padding-top: 0; margin-top: 31px; margin-bottom: 28px; border-top-width: 0; border-left-width: 0; border-right-width: 0; border-bottom-width: 0;" />
+    </engine:VisualElement>
+</engine:UXML>
